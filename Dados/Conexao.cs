@@ -83,7 +83,7 @@ namespace Dados
         //private string strcon = @"User=SYSDBA;Password=masterkey;Pooling=False;Database=C:\base\WMS.FDB;Datasource=localhost;Port=3050;dialect=3;";
 
         //String de conexão local
-         private string strcon = @"User=SYSDBA;Password=masterkey;Pooling=False;Database=C:\base\WMSYMBALE.FDB;Datasource=localhost;dialect=3;";
+        //....private string strcon = @"User=SYSDBA;Password=masterkey;Pooling=False;Database=C:\base\WMSYMBALE.FDB;Datasource=localhost;dialect=3;";
 
 
         //Pooling=False; Retira o tempo de conexão
