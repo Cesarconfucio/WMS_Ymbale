@@ -1,0 +1,6 @@
+D:\Projeto\WMS\Utilitarios\bin\Release\Utilitarios.dll
+D:\Projeto\WMS\Utilitarios\bin\Release\Utilitarios.pdb
+D:\Projeto\WMS\Utilitarios\obj\Release\Utilitarios.csproj.AssemblyReference.cache
+D:\Projeto\WMS\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+D:\Projeto\WMS\Utilitarios\obj\Release\Utilitarios.dll
+D:\Projeto\WMS\Utilitarios\obj\Release\Utilitarios.pdb

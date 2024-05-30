@@ -1,0 +1,2 @@
+D:\Projeto\WMS\Dados\obj\Release\Dados.csproj.AssemblyReference.cache
+D:\Projeto\WMS\Dados\obj\Release\Dados.csproj.CoreCompileInputs.cache
